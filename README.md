@@ -1,5 +1,5 @@
 # Automata-Project
-> - By **Muhammad Umar Anzar**
+> - By **Student**
 > - Seat No. **B19102104**
 > - University Of Karachi 
 > - UBIT department of computer science

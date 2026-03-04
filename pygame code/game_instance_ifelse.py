@@ -13,7 +13,7 @@ def main():
 
 
     #INTIALIZE WINDOW OBJECT
-    window = wf.Window(width=SCREEN_WIDTH,height=SCREEN_HEIGHT,title="FINITE_BALL by Umar Anzar",icon=ICON,bg_image=BG_IMAGE)
+    window = wf.Window(width=SCREEN_WIDTH,height=SCREEN_HEIGHT,title="FINITE_BALL",icon=ICON,bg_image=BG_IMAGE)
 
 
     #SCORE------------------------------------------------------------------------------------------------------------------
